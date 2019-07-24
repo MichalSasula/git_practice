@@ -1,2 +1,3 @@
 jakis nowy tekst
 kolejna linijka nowego tekstu
+trzecia nowa linijka
